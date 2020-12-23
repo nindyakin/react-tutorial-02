@@ -1,0 +1,24 @@
+{
+    "users" : [
+        {"id":"1", "nama": "Nindya", "email": "nindya@gmail.com", "no_telp": "0811223344", "role" : ["spv", "merchant"], "avatar": "/images/user1.png"},
+        {"id":"2", "nama": "Kinanti", "email": "kinanti@yahoo.com", "no_telp": "081308976654", "role" : "spv", "avatar": "/images/user2.png"},
+        {"id":"3", "nama": "Paramasasi", "email": "paramasasi@yahoo.co.id", "no_telp": "081222334455", "role" : "merchant", "avatar": "/images/user3.png"},
+        {"id":"4", "nama": "Prambudi", "email": "prambudi@mail.com", "no_telp": "085600001111", "role" : ["spg", "merchant"], "avatar": "/images/user4.png"},
+        {"id":"5", "nama": "Mirza", "email": "mirza@yahoo.com", "no_telp": "085611112222", "role" : "spg", "avatar": "/images/user5.png"},
+        {"id":"6", "nama": "Melviano", "email": "melviano@gmail.com", "no_telp": "081235678899", "role" : "merchant", "avatar": "/images/user6.png"},
+        {"id":"7", "nama": "Radhitya", "email": "radhityaaa@gmail.com", "no_telp": "08112245667", "role" : ["spv", "spg", "merchant"], "avatar": "/images/user7.png"},
+        {"id":"8", "nama": "Fajrin", "email": "a_fajrin@gmail.com", "no_telp": "081311001100", "role" : ["spv", "merchant"], "avatar": "/images/user8.png"},
+        {"id":"9", "nama": "Farzan", "email": "farzanihsan@gmail.com", "no_telp": "081311220022", "role" : "spv", "avatar": "/images/user9.png"},
+        {"id":"10", "nama": "Damian", "email": "dmian@yahoo.com", "no_telp": "081100998877", "role" : "merchant", "avatar": "/images/user10.png"},
+        {"id":"11", "nama": "Azri", "email": "azriah@gmail.com", "no_telp": "0811098878", "role" : ["spg", "merchant"], "avatar": "/images/user11.png"},
+        {"id":"12", "nama": "Alvin", "email": "alvinski@msn.com", "no_telp": "08136677554", "role" : ["spv", "spg"], "avatar": "/images/user12.png"},
+        {"id":"13", "nama": "Azura", "email": "azura@gmail.com", "no_telp": "08113498665", "role" : ["spv", "spg", "merchant"], "avatar": "/images/user13.png"},
+        {"id":"14", "nama": "Arrayan", "email": "arrayan11@gmail.com", "no_telp": "081199665544", "role" : "merchant", "avatar": "/images/user14.png"},
+        {"id":"15", "nama": "Bobby", "email": "mbobby@gmail.com", "no_telp": "085509878909", "role" : "spv", "avatar": "/images/user15.png"},
+        {"id":"16", "nama": "Charles", "email": "char@yahoo.com", "no_telp": "085676548765", "role" : ["spg", "merchant"], "avatar": "/images/user16.png"},
+        {"id":"17", "nama": "Edward", "email": "edwarddd@gmail.com", "no_telp": "085609871234", "role" : "spg", "avatar": "/images/user17.png"},
+        {"id":"18", "nama": "Digo", "email": "digao@gmail.com", "no_telp": "085613998233", "role" : ["spv", "merchant"], "avatar": "/images/user18.png"},
+        {"id":"19", "nama": "Saint", "email": "saint22@gmail.com", "no_telp": "081209871000", "role" : ["spg", "merchant"], "avatar": "/images/user19.png"},
+        {"id":"20", "nama": "Raditya", "email": "radit@yahoo.com", "no_telp": "08111100665", "role" : ["spv", "spg"], "avatar": "/images/user20.png"}
+    ]
+}
